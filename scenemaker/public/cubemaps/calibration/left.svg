@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Calibration cube face left">
+  <title>Calibration cube face left</title>
+  
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8d4e2f"/>
+      <stop offset="100%" stop-color="#58d6c7"/>
+    </linearGradient>
+    <pattern id="microGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#171411" stroke-width="1" opacity="0.26"/>
+    </pattern>
+  </defs>
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <rect width="1024" height="1024" fill="url(#microGrid)"/>
+  
+    <line x1="0" y1="0" x2="0" y2="1024" stroke="#fffaf2" stroke-width="2" opacity="0.35"/>
+    <line x1="0" y1="0" x2="1024" y2="0" stroke="#fffaf2" stroke-width="2" opacity="0.35"/>
+    <line x1="128" y1="0" x2="128" y2="1024" stroke="#fffaf2" stroke-width="2" opacity="0.35"/>
+    <line x1="0" y1="128" x2="1024" y2="128" stroke="#fffaf2" stroke-width="2" opacity="0.35"/>
+    <line x1="256" y1="0" x2="256" y2="1024" stroke="#fffaf2" stroke-width="2" opacity="0.35"/>
+    <line x1="0" y1="256" x2="1024" y2="256" stroke="#fffaf2" stroke-width="2" opacity="0.35"/>
+    <line x1="384" y1="0" x2="384" y2="1024" stroke="#fffaf2" stroke-width="2" opacity="0.35"/>
+    <line x1="0" y1="384" x2="1024" y2="384" stroke="#fffaf2" stroke-width="2" opacity="0.35"/>
+    <line x1="512" y1="0" x2="512" y2="1024" stroke="#fffaf2" stroke-width="4" opacity="0.7"/>
+    <line x1="0" y1="512" x2="1024" y2="512" stroke="#fffaf2" stroke-width="4" opacity="0.7"/>
+    <line x1="640" y1="0" x2="640" y2="1024" stroke="#fffaf2" stroke-width="2" opacity="0.35"/>
+    <line x1="0" y1="640" x2="1024" y2="640" stroke="#fffaf2" stroke-width="2" opacity="0.35"/>
+    <line x1="768" y1="0" x2="768" y2="1024" stroke="#fffaf2" stroke-width="2" opacity="0.35"/>
+    <line x1="0" y1="768" x2="1024" y2="768" stroke="#fffaf2" stroke-width="2" opacity="0.35"/>
+    <line x1="896" y1="0" x2="896" y2="1024" stroke="#fffaf2" stroke-width="2" opacity="0.35"/>
+    <line x1="0" y1="896" x2="1024" y2="896" stroke="#fffaf2" stroke-width="2" opacity="0.35"/>
+    <line x1="1024" y1="0" x2="1024" y2="1024" stroke="#fffaf2" stroke-width="2" opacity="0.35"/>
+    <line x1="0" y1="1024" x2="1024" y2="1024" stroke="#fffaf2" stroke-width="2" opacity="0.35"/>
+  <rect x="28" y="28" width="968" height="968" rx="0" fill="none" stroke="#171411" stroke-width="14" opacity="0.5"/>
+  <rect x="48" y="48" width="928" height="928" rx="0" fill="none" stroke="#fffaf2" stroke-width="6" opacity="0.85"/>
+  <text x="512" y="462" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="112" font-weight="900" fill="#fffaf2">LEFT</text>
+  <text x="512" y="548" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800" fill="#171411">CUBE FACE</text>
+  <text x="96" y="512" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 96 512)" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" fill="#fffaf2">← BACK</text>
+  <text x="928" y="512" text-anchor="middle" dominant-baseline="middle" transform="rotate(90 928 512)" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" fill="#fffaf2">FRONT →</text>
+  <text x="512" y="108" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" fill="#fffaf2">↑ UP</text>
+  <text x="512" y="940" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" fill="#fffaf2">↓ DOWN</text>
+  <circle cx="512" cy="512" r="92" fill="#171411" opacity="0.78"/>
+  <path d="M512 358L542 512L512 666L482 512Z" fill="#fffaf2"/>
+
+</svg>
